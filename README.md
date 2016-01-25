@@ -6,11 +6,11 @@ Copyright 2016 by [@Nhuanvd](https://twitter.com/nhuanvd)<br>
 #### Usage:
 Convert one svg:
 ```
-  ./svg_xcassets.sh --source=./flags --name=vn --xcassets=./Assets.xcassets --width=100 --height=100 --group=flag
+  ./svg_xcassets.sh --source=./flags --name=vn --xcassets=./Assets.xcassets --width=100 --height=75 --group=flag
 ```
 Convert all svgs in a folder:
 ```
-  ./svg_xcassets.sh --all --source=./flags --xcassets=./Assets.xcassets --width=100 --height=100
+  ./svg_xcassets.sh --all --source=./flags --xcassets=./Assets.xcassets --width=100 --height=75
 ```
 
 #### Flags:
