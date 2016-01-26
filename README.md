@@ -1,7 +1,9 @@
-# SVG-XCAssets
-Command line tool to make xcode assets image from SVG<br>
-Version 0.1.0<br>
+#Command line tools to make xcode assets image
 Copyright 2016 by [@Nhuanvd](https://twitter.com/nhuanvd)<br>
+
+## SVG-XCAssets
+Making xcassets image from SVG<br>
+Version 0.1.0<br>
 
 #### Usage:
 Convert one svg:
